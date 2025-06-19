@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...building tech ninjas
 - 🌱 I’m currently learning ...css/JavaScript 
 - 💞️ I’m looking to collaborate on ...techies
-- 📫 How to reach me ...+2348062896689 e-mail:Ademolatimothy76@gmail.com
+- 📫 How to reach me ...+2347045552418 e-mail:Ademolatimothy76@gmail.com
 
 <!---
 Tiimz/Tiimz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
